@@ -8,7 +8,14 @@ div {
 
 h1 {
   color: white;
-  background-color: #2EFE2E;
+  background-color: #2efe2e;
+  padding: 10px;
+  font-family: 궁서;
+}
+
+h2 {
+  color: white;
+  background-color: #722b3a;
   padding: 10px;
   font-family: 궁서;
 }
